@@ -7,7 +7,7 @@ Official implementation of **S-CENE**, an end-to-end deep learning framework for
 - probabilistic Mixture-of-Experts head for uncertainty estimation,
 - explainability via SHAP.
 
-**Code release in progress.** The full implementation of S-CENE will be publicly released on GitHub upon acceptance of the manuscript.
+![Status](https://img.shields.io/badge/Code%20Release-In%20Progress-orange) The full implementation of S-CENE will be publicly released on GitHub upon acceptance of the manuscript.
 
 ## Paper
 **S-CENE: Species-Conditioned Expert Network with Environmental Fields for Species Distribution Modeling**  
