@@ -22,7 +22,7 @@ Nafisa Nawar Tamzi, Md Motiur Rahman, Smriti Bhatt, Miad Faezipour
 
 ## Data Availability
 
-This work uses a public dataset (8 Mediterranean Pelagic Commercial Fish Species) by Effrosynidis et al. for Mediterranean pelagic fish species distribution modeling. The dataset can be downloaded from: https://data.mendeley.com/datasets/rtphmvz5fj/1
+This work uses a public dataset (8 Mediterranean Pelagic Commercial Fish Species) by Effrosynidis et al. (2020) for Mediterranean pelagic fish species distribution modeling. The dataset can be downloaded from: https://data.mendeley.com/datasets/rtphmvz5fj/1
 
 ---
 
