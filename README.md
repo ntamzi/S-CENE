@@ -20,6 +20,10 @@ Nafisa Nawar Tamzi, Md Motiur Rahman, Smriti Bhatt, Miad Faezipour
 - Spatially explicit uncertainty maps for monitoring prioritization.
 - Species-specific drivers and hotspots via SHAP.
 
+## Data Availability
+
+This work uses a public dataset by Effrosynidis et al. for Mediterranean pelagic fish species distribution modeling.  
+The dataset can be downloaded from: https://data.mendeley.com/datasets/rtphmvz5fj/1
 
 ---
 
